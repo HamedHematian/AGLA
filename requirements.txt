@@ -17,5 +17,5 @@ uvicorn
 fastapi
 einops==0.6.1
 einops-exts==0.0.4
-timm==0.6.13
+timm==0.4.12
 salesforce-lavis==1.0.2
