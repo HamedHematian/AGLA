@@ -1,7 +1,7 @@
 torchvision==0.15.2
 transformers==4.33.2
 torch==2.0.1
-tokenizers==0.14.0
+tokenizers==0.13.3
 sentencepiece==0.1.99
 shortuuid
 accelerate==0.21.0
